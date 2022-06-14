@@ -7,7 +7,12 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@vue/composition-api": "^1.6.2",
+    "ahooks-vue": "^0.12.9",
+    "axios": "^0.27.2",
     "core-js": "^3.6.5",
+    "md5": "^2.3.0",
+    "spark-md5": "^3.0.2",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
