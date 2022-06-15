@@ -34,7 +34,7 @@ export default {
   setup () {
     const calc = () => {
       let count =  0
-      for(let i=0;i<0x5fffffff;i++) {
+      for(let i=0;i<0x2fffffff;i++) {
         count = i
       }
       return count

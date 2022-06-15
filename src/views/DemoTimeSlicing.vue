@@ -13,7 +13,7 @@
         没有优化的耗时任务
       </button>
       <button @click="inWorker">
-        优化的耗时任务
+        时间切片优化的耗时任务
       </button>
     </div>
   </div>
